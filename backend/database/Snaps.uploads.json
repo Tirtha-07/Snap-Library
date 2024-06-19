@@ -1,0 +1,526 @@
+[{
+  "_id": {
+    "$oid": "6640fcc00cedba81b94047ab"
+  },
+  "tags": "dfsdfsd",
+  "desc": "dsfsdfsd",
+  "snapdet": "dsfsdfsd",
+  "cover": "uploads\\pexels-ashokjkshetri-4488163.jpg.jpg",
+  "author": {
+    "$oid": "6640fca80cedba81b94047a7"
+  },
+  "createdAt": {
+    "$date": "2024-05-12T17:30:40.532Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-12T17:30:40.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66424016786853f06b609b71"
+  },
+  "tags": "#travel",
+  "desc": "adaf",
+  "snapdet": "sadasdasdas",
+  "cover": "uploads\\pexels-tainamontanaro-11978907.jpg.jpg",
+  "author": {
+    "$oid": "66423ff1786853f06b609b6c"
+  },
+  "createdAt": {
+    "$date": "2024-05-13T16:30:14.782Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-13T16:30:14.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642402a786853f06b609b75"
+  },
+  "tags": "#abstract",
+  "desc": "fgfghgf",
+  "snapdet": "j,hkl",
+  "cover": "uploads\\Abstract-photography-Patterns1.jpg.jpg",
+  "author": {
+    "$oid": "66423ff1786853f06b609b6c"
+  },
+  "createdAt": {
+    "$date": "2024-05-13T16:30:34.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-13T16:30:34.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642408e786853f06b609b7f"
+  },
+  "tags": "#landscape",
+  "desc": "jkghbnfhnv",
+  "snapdet": "fghetdfgfdsg",
+  "cover": "uploads\\clearoff.jpeg.jpeg",
+  "author": {
+    "$oid": "66423ff1786853f06b609b6c"
+  },
+  "createdAt": {
+    "$date": "2024-05-13T16:32:14.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-13T16:32:14.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664240a4786853f06b609b83"
+  },
+  "tags": "#portrait",
+  "desc": "fsgdfgscxvxcv",
+  "snapdet": "sdfsdfvxcvxc",
+  "cover": "uploads\\pexels-yaroslav-shuraev-8968842.jpg.jpg",
+  "author": {
+    "$oid": "66423ff1786853f06b609b6c"
+  },
+  "createdAt": {
+    "$date": "2024-05-13T16:32:36.462Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T06:12:02.831Z"
+  },
+  "__v": 0,
+  "views": 6
+},
+{
+  "_id": {
+    "$oid": "664240c7786853f06b609b87"
+  },
+  "tags": "#urban",
+  "desc": "dtyhgdcvhgfgcvbd",
+  "snapdet": "fgdfxcvxcxcvxcv",
+  "cover": "uploads\\pexels-postiglioni-421129.jpg.jpg",
+  "author": {
+    "$oid": "66423ff1786853f06b609b6c"
+  },
+  "createdAt": {
+    "$date": "2024-05-13T16:33:11.868Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-06T13:26:46.436Z"
+  },
+  "__v": 0,
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "664240e0786853f06b609b8b"
+  },
+  "tags": "#adventure",
+  "desc": "adafads",
+  "snapdet": "asdasdxasdcazxc",
+  "cover": "uploads\\Screenshot (591).png.png",
+  "author": {
+    "$oid": "66423ff1786853f06b609b6c"
+  },
+  "createdAt": {
+    "$date": "2024-05-13T16:33:36.083Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-13T16:33:36.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66559752664cd8f84eab0b42"
+  },
+  "tags": "sdasdas",
+  "desc": "sdasdasd",
+  "snapdet": "sdsadsadsadas",
+  "cover": "uploads\\84291.png.png",
+  "createdAt": {
+    "$date": "2024-05-28T08:35:30.032Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T08:35:30.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66559f427e32362d8a48410d"
+  },
+  "tags": "sadasdasd",
+  "desc": "sdasdasdas",
+  "snapdet": "asdasdasdasdas",
+  "cover": "uploads\\162303.jpg.jpg",
+  "createdAt": {
+    "$date": "2024-05-28T09:09:22.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T09:09:22.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655a3d27e32362d8a484111"
+  },
+  "tags": "sadasdas",
+  "desc": "sadasdasdasdas",
+  "snapdet": "asdasdasdasdas",
+  "cover": "uploads\\bc87e5124f8d2cfe810d403adc96ad01.gif.gif",
+  "createdAt": {
+    "$date": "2024-05-28T09:28:50.323Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T09:28:50.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655a5d272fd31c6b3667175"
+  },
+  "tags": "#polar",
+  "desc": "sdasdas",
+  "snapdet": "sdasdasas",
+  "cover": "uploads\\28044.jpg.jpg",
+  "createdAt": {
+    "$date": "2024-05-28T09:37:22.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T06:20:31.060Z"
+  },
+  "__v": 0,
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "6655c46672fd31c6b3667180"
+  },
+  "tags": "sdasdasd",
+  "desc": "sadasdasdasd",
+  "snapdet": "asdasdasdasdasd",
+  "cover": "uploads\\1-s2.0-S0022286015303355-gr2.jpg.jpg",
+  "createdAt": {
+    "$date": "2024-05-28T11:47:50.962Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T11:47:50.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655c56272fd31c6b3667183"
+  },
+  "tags": "sdasdas",
+  "desc": "asdasdas",
+  "snapdet": "asdasdasdas",
+  "cover": "uploads\\112192.jpg.jpg",
+  "createdAt": {
+    "$date": "2024-05-28T11:52:02.320Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T11:52:02.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655c58c72fd31c6b3667186"
+  },
+  "tags": "sdasdas",
+  "desc": "asdasdasd",
+  "snapdet": "asdsadasdasd",
+  "cover": "uploads\\274124216_2860850607508859_3614418004545249630_n.jpg.jpg",
+  "createdAt": {
+    "$date": "2024-05-28T11:52:44.887Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T11:52:44.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655c73192dbc67eca3be2c8"
+  },
+  "tags": "dsasdas",
+  "desc": "asdasda",
+  "snapdet": "asdasdas",
+  "cover": "uploads\\300_national_geographic.jpg.jpg",
+  "createdAt": {
+    "$date": "2024-05-28T11:59:45.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T11:59:45.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655c8630bd8a820cd6b3804"
+  },
+  "tags": "sdadasdas",
+  "desc": "sdasdsadas",
+  "snapdet": "sdasdasdasdasd",
+  "cover": "uploads\\1290575.jpg.jpg",
+  "author": "Shanti",
+  "createdAt": {
+    "$date": "2024-05-28T12:04:51.666Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T07:43:36.299Z"
+  },
+  "__v": 0,
+  "likes": 5,
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "6655dbeb4b07f516181fa082"
+  },
+  "tags": "sdasdas",
+  "desc": "sdasdasdasd",
+  "snapdet": "sdasdasdasd",
+  "cover": "uploads\\_110504112_total_emissions_v2-nc.png.png",
+  "author": "Shanti",
+  "createdAt": {
+    "$date": "2024-05-28T13:28:11.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T07:43:34.145Z"
+  },
+  "__v": 0,
+  "views": 1,
+  "likes": 5
+},
+{
+  "_id": {
+    "$oid": "6656b128c469f9b08d9939f1"
+  },
+  "tags": "sdasdas",
+  "desc": "sdasdas",
+  "snapdet": "sdasdasdasda",
+  "cover": "uploads\\_110504112_total_emissions_v2-nc.png.png",
+  "author": "Dell",
+  "createdAt": {
+    "$date": "2024-05-29T04:38:00.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T04:38:00.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656b151c469f9b08d9939f6"
+  },
+  "tags": "sdasd",
+  "desc": "sdasdas",
+  "snapdet": "sdasdasdas",
+  "cover": "uploads\\267952.jpg.jpg",
+  "author": "Dell",
+  "createdAt": {
+    "$date": "2024-05-29T04:38:41.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T04:38:41.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656b17cc469f9b08d9939fb"
+  },
+  "tags": "sdfadsfsd",
+  "desc": "dfsdfdsf",
+  "snapdet": "dsfsdfdsfsd",
+  "cover": "uploads\\1307484.jpg.jpg",
+  "author": "Shanti",
+  "createdAt": {
+    "$date": "2024-05-29T04:39:24.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T07:43:30.835Z"
+  },
+  "__v": 0,
+  "views": 39,
+  "likes": 7,
+  "dislikes": 1
+},
+{
+  "_id": {
+    "$oid": "6656b1c6c469f9b08d993a07"
+  },
+  "tags": "#travel",
+  "desc": "asdasfhgfhgj",
+  "snapdet": "dfsdfgdfgdfgdf",
+  "cover": "uploads\\957248.jpg.jpg",
+  "author": "Shanti",
+  "createdAt": {
+    "$date": "2024-05-29T04:40:38.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T11:42:48.395Z"
+  },
+  "__v": 0,
+  "views": 23,
+  "likes": 8,
+  "dislikes": 1
+},
+{
+  "_id": {
+    "$oid": "6656e73907363d050fdad8b1"
+  },
+  "tags": "sdasd",
+  "desc": "sdaxczxc",
+  "snapdet": "sdasdasd",
+  "cover": "uploads\\104879.jpg.jpg",
+  "saves": [],
+  "author": "Shanti",
+  "createdAt": {
+    "$date": "2024-05-29T08:28:41.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T07:43:23.606Z"
+  },
+  "__v": 0,
+  "views": 28,
+  "likes": 14
+},
+{
+  "_id": {
+    "$oid": "665b5c332813c2b70752572c"
+  },
+  "tags": "sdasdasd",
+  "desc": "sdasdasd",
+  "snapdet": "sdasdasdas",
+  "cover": "uploads\\WhatsApp Image 2024-05-30 at 11.29.17_7d1e5755.jpg.jpg",
+  "saves": [],
+  "author": "Wednesday",
+  "createdAt": {
+    "$date": "2024-06-01T17:36:51.563Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T06:10:20.335Z"
+  },
+  "__v": 0,
+  "views": 71,
+  "likes": 1,
+  "dislikes": 1
+},
+{
+  "_id": {
+    "$oid": "665daa0a34be0613e957404b"
+  },
+  "tags": "view-counter",
+  "desc": "view-counter",
+  "snapdet": "view-counter",
+  "cover": "uploads\\Screenshot (615).png.png",
+  "saves": [],
+  "author": "Wednesday",
+  "views": 193,
+  "createdAt": {
+    "$date": "2024-06-03T11:33:30.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T06:44:49.794Z"
+  },
+  "__v": 0,
+  "likes": 17,
+  "dislikes": 2
+},
+{
+  "_id": {
+    "$oid": "6666a7fcb7dea84217ca9555"
+  },
+  "tags": "#adventure",
+  "desc": "asdas",
+  "snapdet": "xcxzczxczxczx",
+  "cover": "uploads\\WhatsApp Image 2024-06-05 at 11.34.57_70d48a02.jpg.jpg",
+  "saves": [],
+  "author": "Dipa_123",
+  "views": 5,
+  "likes": 0,
+  "dislikes": 0,
+  "createdAt": {
+    "$date": "2024-06-10T07:15:08.311Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T08:17:21.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6666c06cb7dea84217ca9656"
+  },
+  "tags": "sadasd",
+  "desc": "sadasdas",
+  "snapdet": "asdasdas",
+  "cover": "uploads\\WhatsApp Image 2024-06-05 at 11.34.58_ad541d5b.jpg.jpg",
+  "saves": [],
+  "author": "Jas_123",
+  "views": 3,
+  "likes": 1,
+  "dislikes": 0,
+  "createdAt": {
+    "$date": "2024-06-10T08:59:24.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T09:58:22.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66680ea53f311cd1ce2b9cc7"
+  },
+  "tags": "dsfsdfsd",
+  "desc": "dsfsdfsdf",
+  "snapdet": "dfsdfdsfsdfds",
+  "cover": "uploads\\Mt.Everest-View from Sandakphu-Singalila-ridge-trek.jpeg.jpeg",
+  "saves": [],
+  "author": "Pal_123",
+  "views": 9,
+  "likes": 1,
+  "dislikes": 0,
+  "createdAt": {
+    "$date": "2024-06-11T08:45:25.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T13:31:58.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6668215a1bce70ce5d5bffa3"
+  },
+  "tags": "sadasd",
+  "desc": "sadasdasd",
+  "snapdet": "asdasdasdasd",
+  "cover": "uploads\\28044.jpg.jpg",
+  "saves": [],
+  "author": "Far_123",
+  "views": 45,
+  "likes": 1,
+  "dislikes": 5,
+  "createdAt": {
+    "$date": "2024-06-11T10:05:14.036Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-12T10:10:33.102Z"
+  },
+  "__v": 1,
+  "dislikedBy": [],
+  "likedBy": [
+    null
+  ]
+}]
